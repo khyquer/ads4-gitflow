@@ -1,0 +1,14 @@
+Versionamento de dependências
+* Problema: softwares modernos dependem de dezenas ou centenas de bibliotecas externas o Risco de incompatibilidades ou vulnerabilidades.
+* Manifesto: declara as dependências e versoes desejadas
+* (package json, composer json, pom.xm...).
+
+Conventional Commits
+É um padrão de mensagens de commit que segue o princípio de autodocumentação do histórico.
+
+Releases e Tags
+* Release é a entrega oficlal de uma versão do software, normalmente baseada em uma tag
+* Além do commit marcado, Inclui:
+* Pacotes/binárlos para distribuição.
+* Notas de release (release notes ou changelog)
+* Versão semântica (ex.: v10.0)
