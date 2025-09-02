@@ -1,0 +1,25 @@
+Principais Branches do Gitflow
+
+1. master
+Contém o código em produção (versões estáveis já lançadas).
+Cada commit representa uma versão pública (ex: v1.0.0).
+
+2. develop
+É o ambiente principal de desenvolvimento.
+Novas funcionalidades são integradas aqui antes de irem para produção.
+Serve de base para as branches feature e release.
+
+3. feature/*
+Usada para desenvolver novas funcionalidades.
+Criada a partir da develop e, ao terminar, volta para ela.
+Exemplo de nome: feature/login.
+
+4. release/*
+Criada quando uma versão está quase pronta para ser lançada.
+Permite testar, corrigir e documentar antes de ir para produção.
+Depois, é mesclada em master e develop.
+
+5. hotfix/*
+Usada para corrigir bugs críticos em produção.
+Criada a partir da master.
+Após a correção, é mesclada em master e develop.
