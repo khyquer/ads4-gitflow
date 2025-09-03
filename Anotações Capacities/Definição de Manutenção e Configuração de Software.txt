@@ -1,0 +1,1 @@
+Conjunto de parâmetros, ajustes e informações que determinam como um software se comporta em determinado ambiente. Envolvendo arquivos, variáveis, dependências, permissões e integrações.
