@@ -1,4 +1,4 @@
-Controle de Versionamento (Processos)
+Controle de Versionamento (Processos) - Alteração
 O que são ferramentas de controles de versão?
 Com certeza. Já que estabelecemos o conceito de controle de versão, agora vamos falar sobre as aplicações que colocam esse conceito em prática.
 Ferramentas de Controle de Versão (ou VCS - Version Control Systems) são os programas de software que os desenvolvedores usam para gerenciar o histórico e a colaboração em um projeto. São as aplicações que executam todas as tarefas que discutimos: rastrear mudanças, permitir o trabalho em equipe e manter um registro completo de cada versão.
