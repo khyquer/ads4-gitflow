@@ -1,0 +1,27 @@
+  welington filho 
+
+O que é GitFlow?
+É uma forma de organizar branches em projetos Git.
+
+Usa as branches principais:
+
+main: código estável / pronto para produção.
+
+develop: branch de desenvolvimento (integração das features).
+
+Usa branches de apoio:
+
+feature/...: para novas funcionalidades.
+
+release/...: para preparar versões.
+
+hotfix/...: para corrigir problemas em produção.
+
+O que fiz nesta atividade?
+Fiz fork do repositório da atividade.
+
+Criei as branches develop e feature/anotacoes-elysson.
+
+Adicionei minhas anotações neste arquivo.
+
+Abri um Pull Request seguindo o fluxo do GitFlow.
